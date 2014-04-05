@@ -1,0 +1,20 @@
+{
+  "name": "pagespeed",
+  "version": "0.0.0",
+  "dependencies": {
+    "angular": "1.2.15",
+    "json3": "~3.2.6",
+    "es5-shim": "~2.1.0",
+    "jquery": "~1.11.0",
+    "bootstrap": "~3.0.3",
+    "lodash": "~2.4.1",
+    "es6-shim": "~0.10.1",
+    "requirejs": "~2.1.11",
+    "traceur-runtime": "~0.0.32",
+    "di.js": "https://github.com/angular/di.js.git"
+  },
+  "devDependencies": {
+    "angular-mocks": "1.2.15",
+    "angular-scenario": "1.2.15"
+  }
+}

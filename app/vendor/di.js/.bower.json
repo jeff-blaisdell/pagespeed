@@ -1,0 +1,14 @@
+{
+  "name": "di.js",
+  "homepage": "https://github.com/angular/di.js",
+  "_release": "bd66077fce",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "bd66077fceffa231b429a8a6a83cc852fa67920b"
+  },
+  "_source": "https://github.com/angular/di.js.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/angular/di.js.git",
+  "_direct": true
+}
